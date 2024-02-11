@@ -1,0 +1,23 @@
+div:active{
+    transform: rotateZ(180deg);
+    perspective: 1000px;
+
+
+}
+
+.imagen1{
+    width: 100px;
+    min-height: 100px;
+    min-width: 100px;
+    column-gap: 20px;
+    display: flex;
+    flex-direction: row;
+    display: inline-block;
+    margin: 20px;
+    transform-style: preserve-3d;
+
+}
+
+.image:active{
+
+}
